@@ -1,6 +1,8 @@
 # PhoneBot
 бот для группы по продаже телефонов 
 Script: 
+
+[Phone.py](https://github.com/user-attachments/files/24696676/Phone.py)
 import asyncio
 import sqlite3
 from datetime import datetime, timedelta
